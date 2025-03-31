@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layout.html}">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+
+</head>
+
+
+<body background="https://media.ouest-france.fr/v1/pictures/MjAyNTAxNmIyNzlkNjEwMjg3ZDg3NWFiMGEwM2Y1Y2JlOWZhZmU?width=630&height=354&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4d85a0e7359b71164e1a1ffdbda4d6c03dd2b9e417f24a6ce3d0cb0f0206a687">
+<div class="header" th:replace="Layout::header"></div>
+<div style="background-color: rgba(255, 255, 255, 0.8); width:60%; height: 11cm ; justify-self: center; ">
+    <h1 style="justify-self: center; margin-bottom: 5%" >A propos</h1>
+    <pre>
+        Notre application de gestion de consultations est une solution innovante
+        conçue spécifiquement pour les cabinets de santé.
+        Elle permet une gestion fluide et optimisée des rendez-vous et des dossiers patients.
+        En simplifiant les processus quotidiens,
+        notre application vise à offrir aux professionnels de santé plus de temps pour
+        se concentrer sur ce qui compte vraiment : leurs patients.
+    </pre>
+</div>
+
+<div class="footer" th:replace="Layout::footer"></div>
+</body>
+</html>
