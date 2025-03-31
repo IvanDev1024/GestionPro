@@ -1,41 +1,29 @@
-# GestionDeConsultationPro
+Projet Spring boot
 
-## Description du projet
+INTRODUCTION
 
-**GestionDeConsultationPro** est une application web permettant de gérer les patients et les consultations dans un cabinet médical. L'application utilise **Spring Boot** pour le backend et **Thymeleaf** pour le rendu des pages HTML. Elle permet de gérer les rendez-vous des patients, d'afficher leurs informations et de suivre l'historique des consultations.
-
-## Fonctionnalités
-
-- **Gestion des patients** : Ajouter, modifier et supprimer les informations des patients (nom, prénom, âge, historique médical, etc.).
-- **Gestion des consultations** : Planifier et suivre les consultations médicales, avec des rappels et des notifications.
-- **Gestion des rendez-vous** : Planifier et gérer les rendez-vous des patients avec les médecins disponibles.
-- **Interface utilisateur dynamique** : Utilisation de Thymeleaf pour afficher dynamiquement les données des patients et des consultations.
-
-## Architecture du projet
-
-L'application suit l'architecture classique d'une application Spring Boot avec :
-
-- **Backend** : Spring Boot (REST API, services, etc.)
-- **Frontend** : Thymeleaf pour le rendu dynamique des pages HTML
-- **Base de données** : MySQL ou H2 (à configurer selon votre choix)
-- **Gestion des sessions utilisateurs** : Spring Security pour l'authentification et la gestion des sessions.
-
-## Installation
-
-### Prérequis
-
-Assurez-vous d'avoir installé les outils suivants sur votre machine :
-
-- JDK 11 ou supérieur
-- Maven ou Gradle (selon la configuration du projet)
-- Une base de données (MySQL, H2, etc.)
-
-### Étapes d'installation
-
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/IvanDev1024/GestionDeConsultationPro.git
+Les avancées technologiques sont une réalité évidente aujourd’hui, dans la vie de l’homme. Ce dernier se rend de plus en plus compte des bénéfices de ce phénomène. C’est dans ce sens que nous avons conçu une application permettant de gérer les patients et les consultations pour un cabinet médical. Etant inscrit dans le domaine de la Programmation Orientée Objet, ce travail a nécessité de l’analyse et l’usage d’outils technologiques qui ont permis et optimisé sa réalisation.
 
 
+Outils utilisés
+ 
 
-(target/classes/static/propos.png)
+Dans le cadre de ce travail, nous avons utilisé :
+
+En Back end, langage JAVA qui est bien adapté puisqu’il est orienté objet.
+L’API intelliJ comme support parce qu’il est très adapté au le langage JAVA
+En front end, les langages HTML6 et CSS3.
+Comme Base de données : MySQL via PhpMyAdmin
+ 
+
+Contenu rendu
+ 
+
+Lien Github portant le projet Springboot.
+Une vidéo de démonstration montrant le fonctionnement de l’application
+Des photos illustrant les différentes pages d’affichage de l’application et de la base de données.
+ 
+
+CONCLUSION
+
+En conclusion, cette application dédiée à la gestion des patients et des consultations pour un cabinet médical témoigne de l'impact concret des avancées technologiques dans le secteur de la santé. Grâce à l’utilisation de la Programmation Orientée Objet et à une analyse approfondie des besoins, nous avons pu concevoir un outil efficace et optimisé, facilitant ainsi le travail des professionnels de santé. Ce projet illustre bien comment la technologie peut non seulement améliorer les processus médicaux, mais aussi offrir des solutions pratiques qui allègent le quotidien des utilisateurs tout en garantissant une gestion optimale et sécurisée des données.
