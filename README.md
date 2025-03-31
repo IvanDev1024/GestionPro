@@ -35,5 +35,5 @@ Assurez-vous d'avoir installé les outils suivants sur votre machine :
 1. Clonez le dépôt :
    ```bash
   https://github.com/IvanDev1024/GestionDeConsultationPro.git
- target/static/SPBT_Page_Accueil.png
+target/classes/static/propos.png
 
