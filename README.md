@@ -24,6 +24,12 @@ Une vidéo de démonstration montrant le fonctionnement de l’application
 Des photos illustrant les différentes pages d’affichage de l’application et de la base de données.
  (target/classes/static/)
 
+ ### Étapes d'installation
+
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/IvanDev1024/GestionDeConsultationPro.git
+
 # CONCLUSION
 
 En conclusion, cette application dédiée à la gestion des patients et des consultations pour un cabinet médical témoigne de l'impact concret des avancées technologiques dans le secteur de la santé. Grâce à l’utilisation de la Programmation Orientée Objet et à une analyse approfondie des besoins, nous avons pu concevoir un outil efficace et optimisé, facilitant ainsi le travail des professionnels de santé. Ce projet illustre bien comment la technologie peut non seulement améliorer les processus médicaux, mais aussi offrir des solutions pratiques qui allègent le quotidien des utilisateurs tout en garantissant une gestion optimale et sécurisée des données.
