@@ -22,7 +22,7 @@ Comme Base de données : MySQL via PhpMyAdmin
 Lien Github portant le projet Springboot.
 Une vidéo de démonstration montrant le fonctionnement de l’application
 Des photos illustrant les différentes pages d’affichage de l’application et de la base de données.
- (target/classes/static)
+ (target/classes/static/)
 
 # CONCLUSION
 
